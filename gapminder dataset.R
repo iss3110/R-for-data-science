@@ -6,6 +6,7 @@ library(stringr)
 
 
 head(gapminder)
+gapminder
 head(gapminder$country)
 unique(gapminder$country)
 gapminder$country=="Morocco"
